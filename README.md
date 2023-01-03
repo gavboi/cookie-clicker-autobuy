@@ -1,4 +1,5 @@
 # cookie-clicker-autobuy
+I made this because I wanted to make my own thing without modding the game. There are mods that probably do it better, such as [this one](https://steamcommunity.com/sharedfiles/filedetails/?id=2823633161), although I have not tested any myself. 
 
 ### Basic Controls
 - `I` -> Information
