@@ -154,7 +154,7 @@ MsgBox, 64, %ThisTitle%,
 {a} -> Toggle clicking (current: %AState%)
 {s} -> Set delay (current: %ADelay%ms)
 
-{g} -> Toggle golden cookie search (current: %GState%)
+{g} -> Toggle golden cookie popping (current: %GState%)
 
 // Anytime //
 {Ctrl+x} -> Close program
