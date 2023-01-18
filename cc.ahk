@@ -53,8 +53,11 @@ SetTimer, checkActive, 1000
 
 TurnOff:
 AToggle := false
+SetTimer, aLoop, Off
 BToggle := false
+SetTimer, bLoop, Off
 GToggle := false
+SetTimer, gLoop, Off
 return
 
 saveToggles() {
